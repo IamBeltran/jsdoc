@@ -41,8 +41,8 @@ Your debug output here
 ### Your environment
 
 | Software         | Version |
-| ---------------- | ------- |
-| JSDoc            |
-| Node.js          |
-| npm              |
-| Operating system |
+|------------------|---------|
+| JSDoc            |         |
+| Node.js          |         |
+| npm              |         |
+| Operating system |         |
